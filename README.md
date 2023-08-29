@@ -6,4 +6,4 @@ Que tal aprender a criar um SwitchCompact totalmente customizado com ícones usa
 
 ![SwitchCompact](https://micilini.com/assets/img/android/switch_02.png)
 
-Este repositório faz parte do conteúdo sobre [SwitchCompact](https://micilini.com/conteudos/android/switchcompact) do Portal da Micilini.com.
+Este repositório faz parte do conteúdo sobre [SwitchCompact](https://micilini.com/conteudos/android/switchcompact#Co1n7qBsgR-section) do Portal da Micilini.com.
