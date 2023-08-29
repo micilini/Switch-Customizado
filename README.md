@@ -4,6 +4,6 @@
 
 Que tal aprender a criar um SwitchCompact totalmente customizado com ícones usando Kotlin?
 
-![SwitchCompact](https://micilini.com/assets/img/android/spinner_04.png)
+![SwitchCompact](https://micilini.com/assets/img/android/switch_02.png)
 
-Este repositório faz parte do conteúdo sobre [Spinners](https://micilini.com/conteudos/android/spinner#n1x0HoQi4m-section) do Portal da Micilini.com.
+Este repositório faz parte do conteúdo sobre [SwitchCompact](https://micilini.com/conteudos/android/switchcompact) https://micilini.com/assets/img/android/switch_02.png) do Portal da Micilini.com.
